@@ -1,0 +1,4 @@
+openai
+langchain
+youtube_transcript
+streamlit
